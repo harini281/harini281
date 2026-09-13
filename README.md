@@ -31,12 +31,12 @@ alt="Typing SVG"
 
 ## 👩‍💻 About Me
 
-I'm an **Information Technology undergraduate at SLIIT (Sri Lanka)**, specializing in **Artificial Intelligence**, with a strong interest in Machine Learning, Data Science, and intelligent software development. I love turning data into insights and building systems that solve real, meaningful problems.
+I'm an **Information Technology undergraduate at SLIIT (Sri Lanka)** with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and intelligent software development. I love turning data into insights and building systems that solve real, meaningful problems.
 
 - 🔭 Currently building **AI-powered full-stack applications**
 - 🌱 Currently learning **Agentic AI, RAG, LangChain & LangGraph**
 - 💡 Passionate about **Machine Learning, Deep Learning & Data Analytics**
-- 🎯 Goal: become a skilled **AI Engineer** and land an **AI/ML internship**
+- 🎯 Goal: grow into an **AI/ML-focused Software Engineer** and build practical intelligent systems
 - ⚡ Fun fact: *"A curious mind is a powerful thing."*
 
 <table>
@@ -285,10 +285,6 @@ CNN-based computer vision model that classifies flower images into five distinct
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harini281&theme=tokyonight"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harini281&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
