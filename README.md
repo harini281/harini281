@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm **Ravichandran Harini**
-
-### AI / ML Undergraduate · Machine Learning Enthusiast · AI Application Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Harini%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Undergraduate%20%7C%20Aspiring%20AI%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18"/>
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=Turning+Ideas+Into+Intelligent+Solutions;Exploring+Machine+Learning+%26+Data+Science;Building+AI-Powered+Applications;Learning+Agentic+AI+%26+RAG;Always+Learning.+Always+Building."
@@ -14,223 +12,176 @@ alt="Typing SVG"
 <a href="https://www.linkedin.com/in/ravichandran-harini-601858354/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/harini281">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:harini281@outlook.com">
+<img src="https://img.shields.io/badge/Email-Me-8B5CF6?style=for-the-badge&logo=maildotru&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=harini281&label=Profile%20Views&color=7c3aed&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/harini281?label=Followers&style=flat-square&color=2563eb"/>
+<img src="https://komarev.com/ghpvc/?username=harini281&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/harini281?label=Followers&style=for-the-badge&color=2563eb"/>
+<img src="https://img.shields.io/github/stars/harini281?label=Stars&style=for-the-badge&color=facc15"/>
 
 </div>
 
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 ## 👩‍💻 About Me
 
-I'm an **Information Technology undergraduate at SLIIT** with a growing interest in Artificial Intelligence, Machine Learning, Data Science and intelligent software development.
+I'm an **Information Technology undergraduate at SLIIT (Sri Lanka)**, specializing in **Artificial Intelligence**, with a strong interest in Machine Learning, Data Science, and intelligent software development. I love turning data into insights and building systems that solve real, meaningful problems.
 
-I enjoy turning **data and ideas into practical applications**, experimenting with ML models, APIs and full-stack systems.
+- 🔭 Currently building **AI-powered full-stack applications**
+- 🌱 Currently learning **Agentic AI, RAG, LangChain & LangGraph**
+- 💡 Passionate about **Machine Learning, Deep Learning & Data Analytics**
+- 🎯 Goal: become a skilled **AI Engineer** and land an **AI/ML internship**
+- ⚡ Fun fact: *"A curious mind is a powerful thing."*
 
-### ✨ A little about me
+<table>
+<tr><td>
 
-- 🤖 AI / ML enthusiast
-- 📊 Data Science explorer
-- 💻 Full-stack learner
-- 🧠 Curious about Agentic AI
-- 🚀 Love building practical projects
-- 🌱 Continuous learner
+**🏷️ Problem Solver** &nbsp;•&nbsp; **🔄 Continuous Learner** &nbsp;•&nbsp; **🤝 Team Player** &nbsp;•&nbsp; **💡 Creative Thinker**
 
-</td>
+</td></tr>
+</table>
 
-<td width="50%" valign="top">
+<br/>
 
 ## 💼 Current Experience
 
-### **Data Processing Associate — BMI**
+<table>
+<tr>
+<td width="70%" valign="top">
 
+### Data Processing Associate — BMI
 📅 **May 2026 – Present**
 
-- Working with structured data and processing workflows
-- Focusing on data accuracy and consistency
-- Gaining hands-on professional data experience
-- Strengthening analytical and problem-solving skills
-- Balancing industry experience with undergraduate studies
+- Working with structured data and data-processing workflows
+- Focusing on data accuracy, consistency and quality
+- Developing hands-on experience in professional data-handling processes
+- Applying and strengthening analytical skills alongside my studies
+
+</td>
+<td width="30%" valign="top">
+
+> *"Consistent progress creates extraordinary results."*
+
+📍 Sri Lanka
+🎓 SLIIT
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css"/>
 
-### Frameworks & Development
-
+**Frameworks & Development**
+<br/>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,spring"/>
 
-### AI, Data & Machine Learning
-
+**AI, Data & Machine Learning**
+<br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn"/>
+<br/>
 
-`Machine Learning` &nbsp; • &nbsp;
-`Deep Learning` &nbsp; • &nbsp;
-`Pandas` &nbsp; • &nbsp;
-`NumPy` &nbsp; • &nbsp;
-`Feature Engineering` &nbsp; • &nbsp;
-`Model Evaluation`
+`Machine Learning` • `Deep Learning` • `Pandas` • `NumPy` • `Feature Engineering` • `Model Evaluation`
 
-### Agentic & Generative AI
+**Agentic & Generative AI**
+<br/>
 
-`LangChain` &nbsp; • &nbsp;
-`LangGraph` &nbsp; • &nbsp;
-`RAG` &nbsp; • &nbsp;
-`Gemini API` &nbsp; • &nbsp;
-`AI Agents`
+`LangChain` • `LangGraph` • `RAG` • `Gemini API` • `AI Agents`
 
-### Databases
-
+**Databases**
+<br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite"/>
 
-### Tools
-
+**Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<br/>
 
-`Jupyter Notebook` &nbsp; • &nbsp; `Google Colab`
+`Jupyter Notebook` • `Google Colab`
 
 </div>
 
----
+<br/>
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-
 <td width="33%" valign="top">
 
 ### 🚕 UrbanFlow AI
-
 Urban mobility intelligence and prediction using large-scale taxi data.
-
-**Focus**
 
 `Python` `ML` `Data Analytics`
 
-<br/>
-
-<a href="https://github.com/harini281/UrbanFlow_AI">
-<img src="https://img.shields.io/badge/View_Project-→-2563EB?style=for-the-badge"/>
-</a>
+[**View Project →**](https://github.com/harini281/UrbanFlow_AI)
 
 </td>
-
 <td width="33%" valign="top">
 
 ### ✈️ TravelWise
-
 AI-enabled travel management application with intelligent travel agents.
 
-**Tech**
+`React` `ASP.NET Core` `AI Agents`
 
-`React` `ASP.NET Core` `Python` `PostgreSQL`
-
-<br/>
-
-<a href="https://github.com/harini281/TravelWise">
-<img src="https://img.shields.io/badge/View_Project-→-7C3AED?style=for-the-badge"/>
-</a>
+[**View Project →**](https://github.com/harini281/TravelWise)
 
 </td>
-
 <td width="33%" valign="top">
 
 ### 🛡️ SentinelShield AI
-
-Cybersecurity dashboard for monitoring, analytics and threat-related workflows.
-
-**Tech**
+Cybersecurity monitoring and analytics dashboard.
 
 `React` `TypeScript` `Supabase`
 
-<br/>
-
-<a href="https://github.com/harini281/sentinelshield-ai">
-<img src="https://img.shields.io/badge/View_Project-→-DB2777?style=for-the-badge"/>
-</a>
+[**View Project →**](https://github.com/harini281/sentinelshield-ai)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="33%" valign="top">
 
 ### 🏠 Property Risk Intelligence
-
-Environmental property-risk analysis platform using multiple data signals.
-
-**Tech**
+Environmental risk analysis platform for properties.
 
 `React` `Spring Boot` `PostgreSQL`
 
-<br/>
-
-<a href="https://github.com/harini281/property-risk-intelligence">
-<img src="https://img.shields.io/badge/View_Project-→-2563EB?style=for-the-badge"/>
-</a>
+[**View Project →**](https://github.com/harini281/property-risk-intelligence)
 
 </td>
-
 <td width="33%" valign="top">
 
 ### 🌦️ Smart Weather Assistant
-
-AI-powered weather application with real-time information and intelligent explanations.
-
-**Tech**
+AI-powered weather app with intelligent, natural-language explanations.
 
 `React` `Gemini API` `Weather API`
 
-<br/>
-
-<a href="https://github.com/harini281/smart-weather-travel-assistant">
-<img src="https://img.shields.io/badge/View_Project-→-7C3AED?style=for-the-badge"/>
-</a>
+[**View Project →**](https://github.com/harini281/smart-weather-travel-assistant)
 
 </td>
-
 <td width="33%" valign="top">
 
 ### 🌸 Flower Classification
-
-CNN-based computer-vision project for classifying flower images into five categories.
-
-**Focus**
+CNN-based flower image classification into 5 categories.
 
 `Python` `CNN` `Deep Learning`
 
-<br/>
-
-<a href="https://github.com/harini281/AI-Powered-Flower-Classification">
-<img src="https://img.shields.io/badge/View_Project-→-DB2777?style=for-the-badge"/>
-</a>
+[**View Project →**](https://github.com/harini281/AI-Powered-Flower-Classification)
 
 </td>
-
 </tr>
 </table>
 
@@ -240,9 +191,9 @@ CNN-based computer-vision project for classifying flower images into five catego
 
 </div>
 
----
+<br/>
 
-# 🎯 What I'm Exploring
+## 🎯 What I'm Exploring
 
 <div align="center">
 
@@ -257,72 +208,46 @@ CNN-based computer-vision project for classifying flower images into five catego
 
 </div>
 
----
+<br/>
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="175"
-src="https://github-readme-stats.vercel.app/api?username=harini281&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harini281&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini281&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="175"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini281&layout=compact&theme=tokyonight&hide_border=true"
-alt="Top Languages"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=harini281&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harini281&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harini281&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=harini281&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-# 📈 Coding Activity
-
-<div align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harini281&theme=tokyonight"
-alt="GitHub Profile Activity"
-/>
-
-</div>
-
----
-
-# 💡 A Little More About Me
+## 💡 A Little More About Me
 
 <details>
-
 <summary><b>🤖 Why AI & Machine Learning?</b></summary>
-
 <br/>
-
-I enjoy discovering patterns in data and using technology to build systems that can make useful predictions, automate tasks and assist people in solving real-world problems.
-
+I enjoy discovering patterns in data and using technology to build systems that can make useful predictions, automate tasks, and assist people in solving real-world problems.
 </details>
 
 <details>
-
 <summary><b>🧠 What am I currently learning?</b></summary>
-
 <br/>
 
-I'm currently exploring:
-
 - Agentic AI
-- Retrieval-Augmented Generation
-- LangChain
-- LangGraph
+- Retrieval-Augmented Generation (RAG)
+- LangChain & LangGraph
 - Machine Learning model evaluation
 - Deep Learning
 - AI-integrated applications
@@ -331,33 +256,27 @@ I'm currently exploring:
 </details>
 
 <details>
-
 <summary><b>🚀 What do I want to build next?</b></summary>
+<br/>
+More intelligent applications that combine <b>AI + Data + APIs + Full-Stack Development</b>.
+</details>
 
 <br/>
 
-More intelligent applications that combine:
-
-**AI + Data + APIs + Full-Stack Development**
-
-</details>
-
----
-
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-### Interested in AI, Machine Learning, Data Science or building something interesting?
-
-<br/>
+### Interested in AI, Machine Learning, Data Science, or building something interesting? Let's talk!
 
 <a href="https://www.linkedin.com/in/ravichandran-harini-601858354/">
 <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/harini281">
 <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:harini281@outlook.com">
+<img src="https://img.shields.io/badge/Say_Hello-8B5CF6?style=for-the-badge&logo=maildotru&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -365,6 +284,8 @@ More intelligent applications that combine:
 ### 💜 *"Exploring today, building a smarter tomorrow."*
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 **Designed with ❤️ by Harini R.**
 
