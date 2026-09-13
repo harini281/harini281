@@ -81,36 +81,67 @@ I'm an **Information Technology undergraduate at SLIIT (Sri Lanka)**, specializi
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css"/>
+### 💻 Languages
 
-**Frameworks & Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,spring"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-**AI, Data & Machine Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn"/>
+<br/><br/>
+
+### ⚙️ Frameworks & Development
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<br/><br/>
+
+### 🧠 AI, Data & Machine Learning
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 <br/>
 
-`Machine Learning` • `Deep Learning` • `Pandas` • `NumPy` • `Feature Engineering` • `Model Evaluation`
+`Feature Engineering` • `Model Evaluation` • `Deep Learning`
 
-**Agentic & Generative AI**
-<br/>
+<br/><br/>
 
-`LangChain` • `LangGraph` • `RAG` • `Gemini API` • `AI Agents`
+### 🤖 Agentic & Generative AI
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-4B5563?style=for-the-badge"/>
 
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-<br/>
+<br/><br/>
 
-`Jupyter Notebook` • `Google Colab`
+### 🗄️ Databases
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<br/><br/>
+
+### 🧰 Tools & Platforms
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
 </div>
 
@@ -123,31 +154,46 @@ I'm an **Information Technology undergraduate at SLIIT (Sri Lanka)**, specializi
 <td width="33%" valign="top">
 
 ### 🚕 UrbanFlow AI
-Urban mobility intelligence and prediction using large-scale taxi data.
 
-`Python` `ML` `Data Analytics`
+Urban mobility intelligence platform that mines large-scale taxi data to model traffic flow and predict demand patterns.
 
-[**View Project →**](https://github.com/harini281/UrbanFlow_AI)
+**Highlights**
+- 📈 Predictive modeling on real-world mobility data
+- 🗺️ Data-driven urban traffic insights
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Machine_Learning-4B5563?style=flat-square"/> <img src="https://img.shields.io/badge/Data_Analytics-4B5563?style=flat-square"/>
+
+[**🔗 View Project**](https://github.com/harini281/UrbanFlow_AI)
 
 </td>
 <td width="33%" valign="top">
 
 ### ✈️ TravelWise
-AI-enabled travel management application with intelligent travel agents.
 
-`React` `ASP.NET Core` `AI Agents`
+AI-enabled travel management platform powered by intelligent agents that plan and manage trips end-to-end.
 
-[**View Project →**](https://github.com/harini281/TravelWise)
+**Highlights**
+- 🧠 Agent-driven trip planning logic
+- 💰 Built the Budget & Expense module
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Agents-4B5563?style=flat-square"/>
+
+[**🔗 View Project**](https://github.com/harini281/TravelWise)
 
 </td>
 <td width="33%" valign="top">
 
 ### 🛡️ SentinelShield AI
-Cybersecurity monitoring and analytics dashboard.
 
-`React` `TypeScript` `Supabase`
+Cybersecurity monitoring dashboard that surfaces threat analytics in real time for faster response.
 
-[**View Project →**](https://github.com/harini281/sentinelshield-ai)
+**Highlights**
+- 🚨 Live monitoring & analytics views
+- 🔒 Threat-focused dashboard design
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+
+[**🔗 View Project**](https://github.com/harini281/sentinelshield-ai)
 
 </td>
 </tr>
@@ -155,31 +201,46 @@ Cybersecurity monitoring and analytics dashboard.
 <td width="33%" valign="top">
 
 ### 🏠 Property Risk Intelligence
-Environmental risk analysis platform for properties.
 
-`React` `Spring Boot` `PostgreSQL`
+Environmental risk analysis system that scores properties using multiple real-world environmental data signals.
 
-[**View Project →**](https://github.com/harini281/property-risk-intelligence)
+**Highlights**
+- 🌍 Multi-signal environmental risk scoring
+- 🧩 Modular risk-agent architecture
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+[**🔗 View Project**](https://github.com/harini281/property-risk-intelligence)
 
 </td>
 <td width="33%" valign="top">
 
 ### 🌦️ Smart Weather Assistant
-AI-powered weather app with intelligent, natural-language explanations.
 
-`React` `Gemini API` `Weather API`
+AI-powered weather app that goes beyond raw forecasts with natural-language, Gemini-generated explanations.
 
-[**View Project →**](https://github.com/harini281/smart-weather-travel-assistant)
+**Highlights**
+- 🗣️ Conversational weather explanations
+- ⛅ Real-time forecast integration
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Weather_API-4B5563?style=flat-square"/>
+
+[**🔗 View Project**](https://github.com/harini281/smart-weather-travel-assistant)
 
 </td>
 <td width="33%" valign="top">
 
 ### 🌸 Flower Classification
-CNN-based flower image classification into 5 categories.
 
-`Python` `CNN` `Deep Learning`
+CNN-based computer vision model that classifies flower images into five distinct species categories.
 
-[**View Project →**](https://github.com/harini281/AI-Powered-Flower-Classification)
+**Highlights**
+- 🧠 Custom-trained CNN architecture
+- 🌼 5-class image classification pipeline
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-4B5563?style=flat-square"/> <img src="https://img.shields.io/badge/Deep_Learning-4B5563?style=flat-square"/>
+
+[**🔗 View Project**](https://github.com/harini281/AI-Powered-Flower-Classification)
 
 </td>
 </tr>
