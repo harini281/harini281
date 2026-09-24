@@ -55,7 +55,7 @@ I'm an **Information Technology undergraduate at SLIIT (Sri Lanka)** with a stro
 <tr>
 <td width="70%" valign="top">
 
-### Data Processing Associate — BMI
+### Data Processing Associate — SoundMouse(BMI)
 📅 **May 2026 – Present**
 
 - Working with structured data and data-processing workflows
